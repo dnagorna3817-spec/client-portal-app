@@ -1,0 +1,23 @@
+{
+  "name": "akc-client-portal-intro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.3.6",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "sharp": "0.35.5"
+  },
+  "devDependencies": {
+    "@types/node": "20.16.10",
+    "@types/react": "18.3.10",
+    "@types/react-dom": "18.3.0",
+    "typescript": "5.6.2"
+  }
+}

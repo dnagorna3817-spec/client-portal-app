@@ -1,0 +1,8 @@
+export const APP_STORE_URL =
+  process.env.NEXT_PUBLIC_APP_STORE_URL ||
+  "https://apps.apple.com/ua/app/client-portal-akc/id6813564640?l=uk";
+export const GOOGLE_PLAY_URL =
+  process.env.NEXT_PUBLIC_GOOGLE_PLAY_URL ||
+  "https://play.google.com/store/apps/details?id=net.qualicenter.app";
+export const CLIENT_PORTAL_URL =
+  process.env.NEXT_PUBLIC_CLIENT_PORTAL_URL ?? "https://client-portal-akc.com";
