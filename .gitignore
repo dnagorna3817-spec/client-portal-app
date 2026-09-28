@@ -8,3 +8,4 @@ out/
 !.env.example
 output/playwright/
 .vscode/
+.vercel
